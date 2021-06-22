@@ -63,7 +63,7 @@ pages = int(10000 / 25)  # 크롤링할 페이지 수
 # cid = 1  # 이게 카테고리 (ex) 1: 소설/시/희곡, 170: 경제경영 ...
 start = time.time()  # 얼마나 걸릴지 궁금
 
-for cid in [987]:  # 여기에 해당 카테고리의 cid 리스트 작성
+for cid in [ ]:  # 여기에 해당 카테고리의 cid 리스트 작성
     dictionary = {'title': [], 'summary': []}
     start_page = 1
     for page in range(start_page, pages + 1):
