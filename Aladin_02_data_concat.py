@@ -11,7 +11,7 @@ cid_to_cat = {
     '1237': 'Religion_Mysticism',
     '517': 'Art_Culture',
     '55890': 'Health_Hobby_Leisure',
-    '987': 'Economic',
+    '987': 'Science',
     '76001' : 'reference_book',
 }
 today = time.strftime("%Y-%m-%d", time.localtime(time.time()))
