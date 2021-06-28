@@ -1,0 +1,13 @@
+#extension
+*.txt
+*.whl
+*.h5
+*.npy
+*.pdf
+
+#specific file
+raw_65548_2021-06-22.csv
+
+#folder
+.vscode/
+
